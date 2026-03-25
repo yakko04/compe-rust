@@ -5,6 +5,7 @@ edition = "2024"
 
 [dependencies]
 proconio = "0.5.0"
+itertools = "0.14"
 
 [[bin]]
 name = "sandbox_main"
@@ -53,3 +54,43 @@ path = "src/ABS/049C.rs"
 [[bin]]
 name = "ABS_086C"
 path = "src/ABS/086C.rs"
+
+[[bin]]
+name = "tenkei90_004"
+path = "src/tenkei90/004.rs"
+
+[[bin]]
+name = "tenkei90_010"
+path = "src/tenkei90/010.rs"
+
+[[bin]]
+name = "tenkei90_022"
+path = "src/tenkei90/022.rs"
+
+[[bin]]
+name = "tenkei90_024"
+path = "src/tenkei90/024.rs"
+
+[[bin]]
+name = "tenkei90_027"
+path = "src/tenkei90/027.rs"
+
+[[bin]]
+name = "tenkei90_033"
+path = "src/tenkei90/033.rs"
+
+[[bin]]
+name = "tenkei90_055"
+path = "src/tenkei90/055.rs"
+
+[[bin]]
+name = "tenkei90_061"
+path = "src/tenkei90/061.rs"
+
+[[bin]]
+name = "tenkei90_067"
+path = "src/tenkei90/067.rs"
+
+[[bin]]
+name = "tenkei90_078"
+path = "src/tenkei90/078.rs"
