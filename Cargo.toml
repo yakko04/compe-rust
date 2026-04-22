@@ -6,6 +6,7 @@ edition = "2024"
 [dependencies]
 proconio = "0.5.0"
 itertools = "0.14"
+ac-library-rs = "0.1"
 
 [[bin]]
 name = "sandbox_main"
@@ -94,3 +95,83 @@ path = "src/tenkei90/067.rs"
 [[bin]]
 name = "tenkei90_078"
 path = "src/tenkei90/078.rs"
+
+[[bin]]
+name = "tenkei90_002"
+path = "src/tenkei90/002.rs"
+
+[[bin]]
+name = "tenkei90_007"
+path = "src/tenkei90/007.rs"
+
+[[bin]]
+name = "tenkei90_014"
+path = "src/tenkei90/014.rs"
+
+[[bin]]
+name = "tenkei90_016"
+path = "src/tenkei90/016.rs"
+
+[[bin]]
+name = "tenkei90_018"
+path = "src/tenkei90/018.rs"
+
+[[bin]]
+name = "tenkei90_020"
+path = "src/tenkei90/020.rs"
+
+[[bin]]
+name = "tenkei90_032"
+path = "src/tenkei90/032.rs"
+
+[[bin]]
+name = "tenkei90_038"
+path = "src/tenkei90/038.rs"
+
+[[bin]]
+name = "tenkei90_044"
+path = "src/tenkei90/044.rs"
+
+[[bin]]
+name = "tenkei90_046"
+path = "src/tenkei90/046.rs"
+
+[[bin]]
+name = "tenkei90_048"
+path = "src/tenkei90/048.rs"
+
+[[bin]]
+name = "tenkei90_050"
+path = "src/tenkei90/050.rs"
+
+[[bin]]
+name = "tenkei90_052"
+path = "src/tenkei90/052.rs"
+
+[[bin]]
+name = "tenkei90_064"
+path = "src/tenkei90/064.rs"
+
+[[bin]]
+name = "tenkei90_069"
+path = "src/tenkei90/069.rs"
+
+[[bin]]
+name = "tenkei90_075"
+path = "src/tenkei90/075.rs"
+
+[[bin]]
+name = "tenkei90_076"
+path = "src/tenkei90/076.rs"
+
+[[bin]]
+name = "tenkei90_079"
+path = "src/tenkei90/079.rs"
+
+[[bin]]
+name = "tenkei90_082"
+path = "src/tenkei90/082.rs"
+
+[[bin]]
+name = "tenkei90_084"
+path = "src/tenkei90/084.rs"
